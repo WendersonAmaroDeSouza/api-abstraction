@@ -1,6 +1,6 @@
 import request
 
-class Api:
+class BaseApi:
     def __init__(self, name, scheme, authority):
         self.name = name
         self.scheme = scheme
