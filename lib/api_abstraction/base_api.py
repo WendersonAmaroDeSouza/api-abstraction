@@ -1,4 +1,3 @@
-import request
 
 class BaseApi:
     def __init__(self, name, scheme, authority):
