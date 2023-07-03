@@ -7,3 +7,4 @@ class Api(BaseApi):
     
     def request(self, method, endpoint, params):
         response = request[method](endpoint.get_uri(), params=params)
+        return response
