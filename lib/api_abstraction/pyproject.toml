@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling", "requests"]
+build-backend = "hatchling.build"
+
+[project]
+name = "api_abstraction_capiv"
+version = "0.0.2"
+authors = [
+  { name="Wenderson Amaro De Souza", email="wenderson3souza@gmail.com" },
+]
+description = "Api abstraction"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/WendersonAmaroDeSouza/api-abstraction"
+"Bug Tracker" = "https://github.com/WendersonAmaroDeSouza/api-abstraction/issues"
