@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "api_abstraction_capiv"
-version = "0.0.2"
+version = "0.0.13"
 authors = [
   { name="Wenderson Amaro De Souza", email="wenderson3souza@gmail.com" },
 ]
