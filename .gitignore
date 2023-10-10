@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+lib/api_abstraction/tests
 lib64/
 parts/
 sdist/
